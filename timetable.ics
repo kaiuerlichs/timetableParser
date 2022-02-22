@@ -1,0 +1,1637 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Timetable for 2421101
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:UE4M0LlUpALRh3CfyIo29
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220117T110000Z
+DTEND:20220117T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:itRCBShVYJCR-bPqkUHVx
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220117T130000Z
+DTEND:20220117T140000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:CdzCq9Q6hrM9LSuS6iKQB
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220118T110000Z
+DTEND:20220118T120000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:OAWXEv2deO92HaIc4jICn
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220118T150000Z
+DTEND:20220118T160000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic\,Pluss\, Brian\
+	,Lawrence\, John
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic,Pluss, Brian,Lawrence, John
+END:VEVENT
+BEGIN:VEVENT
+UID:zMcp0duOLhfgk86JwDuej
+SUMMARY:[Labprac] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220119T090000Z
+DTEND:20220119T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:fFCAps_QWbOronCINSASh
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220119T110000Z
+DTEND:20220119T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Lawrence\, John\,Magerand\, Ludovi
+	c\,Pluss\, Brian
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>L
+	awrence, John,Magerand, Ludovic,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:weVEbeRObCMYl99EkPc24
+SUMMARY:[Labprac] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220120T090000Z
+DTEND:20220120T110000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain
+LOCATION:Queen Mother Lab 2 (SSEN ITS) [cap.22]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 0 (SSEN ITS) [cap.20]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain
+END:VEVENT
+BEGIN:VEVENT
+UID:F8-Yn9_ppZzPi1Hsm7wMB
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220120T120000Z
+DTEND:20220120T130000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain
+END:VEVENT
+BEGIN:VEVENT
+UID:lA3iSiAkEThTUY2q2uN-j
+SUMMARY:[Classtest] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220121T140000Z
+DTEND:20220121T143000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian\,Mage
+	rand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:5Lfq4d7O-v1rykxJ_Sghz
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220121T160000Z
+DTEND:20220121T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:GfpMIFlVRAl9bK2_rvRA7
+SUMMARY:[Tutorial] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220124T090000Z
+DTEND:20220124T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:pQx5y_TODn1sUw-KPR9pU
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220124T110000Z
+DTEND:20220124T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:Z8uxMlX6j7IGARccUC3jd
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220124T130000Z
+DTEND:20220124T140000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:02sSjSPTXKdFdyW39G4Kv
+SUMMARY:[Classtest] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220124T160000Z
+DTEND:20220124T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Pluss\, Brian\,Lawrence\, John\,Ma
+	gerand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>P
+	luss, Brian,Lawrence, John,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:73gZPrMRay9FfZ9mKzn8y
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220125T110000Z
+DTEND:20220125T120000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:-iFNbKF7-iKTHvJAR1yMS
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220125T150000Z
+DTEND:20220125T160000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic\,Pluss\, Brian\
+	,Lawrence\, John
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic,Pluss, Brian,Lawrence, John
+END:VEVENT
+BEGIN:VEVENT
+UID:DegalihzuCGbXhEJOSKzO
+SUMMARY:[Labprac] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220126T090000Z
+DTEND:20220126T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:yzMq5I4CuKObC603ML5wh
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220126T110000Z
+DTEND:20220126T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Lawrence\, John\,Magerand\, Ludovi
+	c\,Pluss\, Brian
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>L
+	awrence, John,Magerand, Ludovic,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:xqDAq1_pdoQibxi_mXIzX
+SUMMARY:[Labprac] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220127T090000Z
+DTEND:20220127T110000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain
+LOCATION:Queen Mother Lab 2 (SSEN ITS) [cap.22]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 0 (SSEN ITS) [cap.20]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain
+END:VEVENT
+BEGIN:VEVENT
+UID:VpmIw2m4KxnXlVkQZ2FrZ
+SUMMARY:[Classtest] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220128T140000Z
+DTEND:20220128T143000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian\,Mage
+	rand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:Ai-3CVnRUXMBpbH7xFhYF
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220128T160000Z
+DTEND:20220128T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:uDPKHqXl8qF2Yq__Gr1uL
+SUMMARY:[Tutorial] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220131T090000Z
+DTEND:20220131T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:qmbt-CGfn-Qn25yDP96yS
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220131T110000Z
+DTEND:20220131T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:EP5LHJ_z6s6pc5ImP0984
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220131T130000Z
+DTEND:20220131T140000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:sjH25EKAEHXRsODBXriZf
+SUMMARY:[Classtest] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220131T160000Z
+DTEND:20220131T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Pluss\, Brian\,Lawrence\, John\,Ma
+	gerand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>P
+	luss, Brian,Lawrence, John,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:6XPCW33_jGX_rH1J0cHP8
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220201T110000Z
+DTEND:20220201T120000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:LTVo6w3I-tlUZk19R6ekN
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220201T150000Z
+DTEND:20220201T160000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic\,Pluss\, Brian\
+	,Lawrence\, John
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic,Pluss, Brian,Lawrence, John
+END:VEVENT
+BEGIN:VEVENT
+UID:H8QhkuxxOFEHTNMzEHqen
+SUMMARY:[Labprac] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220202T090000Z
+DTEND:20220202T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:tiMmDTv2o_BoGeAwM6NRI
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220202T110000Z
+DTEND:20220202T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Lawrence\, John\,Magerand\, Ludovi
+	c\,Pluss\, Brian
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>L
+	awrence, John,Magerand, Ludovic,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:uVBiiZloOlhaF25zgQlvt
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220202T120000Z
+DTEND:20220202T130000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Pluss\, Brian
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>P
+	luss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:JDbgGzSvVY238PSoC_UDk
+SUMMARY:[Labprac] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220203T090000Z
+DTEND:20220203T110000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain
+LOCATION:Queen Mother Lab 2 (SSEN ITS) [cap.22]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 0 (SSEN ITS) [cap.20]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain
+END:VEVENT
+BEGIN:VEVENT
+UID:yictApmQ24n8jE4ApaF5T
+SUMMARY:[Classtest] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220204T140000Z
+DTEND:20220204T143000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian\,Mage
+	rand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:_jnWkRPKx8bB5EaFqDlQf
+SUMMARY:[Pdp] Personal Development Planning
+DTSTAMP:20220206T233200Z
+DTSTART:20220204T150000Z
+DTEND:20220204T153000Z
+DESCRIPTION:Module Code: SD20001\nStaff: Magerand\, Ludovic
+LOCATION:Scrymgeour 1.24 [cap.12]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>SD20001<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:gYEMWgH0wvXX6DF-ikBMt
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220204T160000Z
+DTEND:20220204T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:Dh1LwvB1rZtdFYaukesAg
+SUMMARY:[Tutorial] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220207T090000Z
+DTEND:20220207T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:V7SZ25x3kcI6gXJZIM1gs
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220207T110000Z
+DTEND:20220207T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Scrymgeour 4.01 [cap.94]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:CZxv8lEpyyAKWJCby9CL7
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220207T130000Z
+DTEND:20220207T140000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:YErk7MaJ5dD36uDOMuQj-
+SUMMARY:[Classtest] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220207T160000Z
+DTEND:20220207T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Pluss\, Brian\,Lawrence\, John\,Ma
+	gerand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>P
+	luss, Brian,Lawrence, John,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:Oobz8_2uhNFLIC_Bc4O_J
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220208T110000Z
+DTEND:20220208T120000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:CXM9a2vfdNftD1ktditn7
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220208T150000Z
+DTEND:20220208T160000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic\,Pluss\, Brian\
+	,Lawrence\, John
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic,Pluss, Brian,Lawrence, John
+END:VEVENT
+BEGIN:VEVENT
+UID:UDL1SjfjuaWw9MWDbV2Qu
+SUMMARY:[Labprac] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220209T090000Z
+DTEND:20220209T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:8533Tif0mX0FJ4ECbOhZv
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220209T110000Z
+DTEND:20220209T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Lawrence\, John\,Magerand\, Ludovi
+	c\,Pluss\, Brian
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>L
+	awrence, John,Magerand, Ludovic,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:AVgTaBPHQx6fNWTLHbmny
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220209T120000Z
+DTEND:20220209T130000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Pluss\, Brian
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>P
+	luss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:8jO212O-TpT-MhuiKrbm_
+SUMMARY:[Labprac] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220210T090000Z
+DTEND:20220210T110000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain
+LOCATION:Queen Mother Lab 2 (SSEN ITS) [cap.22]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 0 (SSEN ITS) [cap.20]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain
+END:VEVENT
+BEGIN:VEVENT
+UID:oTEDV4aGwS1Nei_xRvdjQ
+SUMMARY:[Classtest] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220211T140000Z
+DTEND:20220211T143000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian\,Mage
+	rand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:HvkRYm5mSueI7TphzIGFi
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220211T160000Z
+DTEND:20220211T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Dalhousie 3G05 LT2 [cap.120]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:ftLnuoVlHNrWK4zkKs8wx
+SUMMARY:[Tutorial] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220214T090000Z
+DTEND:20220214T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:RRVNmn76tMAFq2f5bmh1L
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220214T110000Z
+DTEND:20220214T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Scrymgeour 4.01 [cap.94]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:_XyniWExRv1xLtrGZJKTf
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220214T130000Z
+DTEND:20220214T140000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Magerand\, Ludovic
+LOCATION:Dalhousie 3G05 LT2 [cap.120]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:Tf1rb0w14qCERcakVTHHF
+SUMMARY:[Classtest] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220214T160000Z
+DTEND:20220214T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Pluss\, Brian\,Lawrence\, John\,Ma
+	gerand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>P
+	luss, Brian,Lawrence, John,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:FcdhgfaqXwhF66mEac05T
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220215T110000Z
+DTEND:20220215T120000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Magerand\, Ludovic
+LOCATION:Carnelley Small LT [cap.83]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:4UWDNJcaKeXc5RhtGCj0x
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220215T150000Z
+DTEND:20220215T160000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic\,Pluss\, Brian\
+	,Lawrence\, John
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic,Pluss, Brian,Lawrence, John
+END:VEVENT
+BEGIN:VEVENT
+UID:tBXRiaTxOriPB1HqqJRgg
+SUMMARY:[Labprac] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220216T090000Z
+DTEND:20220216T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:HJRu7ezN9qjn6olTPM4nL
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220216T110000Z
+DTEND:20220216T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Lawrence\, John\,Magerand\, Ludovi
+	c\,Pluss\, Brian
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>L
+	awrence, John,Magerand, Ludovic,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:yE7h-rYVbjq0IFUxABkXf
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220216T120000Z
+DTEND:20220216T130000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Pluss\, Brian
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>P
+	luss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:hMsgAvUkbMFRbKa6ZZw7D
+SUMMARY:[Labprac] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220217T090000Z
+DTEND:20220217T110000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain
+LOCATION:Queen Mother Lab 2 (SSEN ITS) [cap.22]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 0 (SSEN ITS) [cap.20]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain
+END:VEVENT
+BEGIN:VEVENT
+UID:KmEHqPeelbDWxkikAAnyJ
+SUMMARY:[Classtest] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220218T140000Z
+DTEND:20220218T143000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian\,Mage
+	rand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:6DUbcXAlgiOZUUhwfyu3f
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220218T160000Z
+DTEND:20220218T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Dalhousie 3G05 LT2 [cap.120]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:bpMYS1A0mLp_enpq4j4W1
+SUMMARY:[Tutorial] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220221T090000Z
+DTEND:20220221T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:psU2T3afU78GsX1JdUTqr
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220221T110000Z
+DTEND:20220221T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Scrymgeour 4.01 [cap.94]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:YRZCbOMoh1jkZoXm4ELBK
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220221T130000Z
+DTEND:20220221T140000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Magerand\, Ludovic
+LOCATION:Dalhousie 3G05 LT2 [cap.120]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:UhHvWtg3jVlmT1mB3zqjE
+SUMMARY:[Classtest] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220221T160000Z
+DTEND:20220221T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Pluss\, Brian\,Lawrence\, John\,Ma
+	gerand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>P
+	luss, Brian,Lawrence, John,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:R1BbsIQLCBP2_nO0gOPEK
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220222T110000Z
+DTEND:20220222T120000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Magerand\, Ludovic
+LOCATION:Carnelley Small LT [cap.83]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:O72TUQi5IHg_2PNcpq-vD
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220222T150000Z
+DTEND:20220222T160000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic\,Pluss\, Brian\
+	,Lawrence\, John
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic,Pluss, Brian,Lawrence, John
+END:VEVENT
+BEGIN:VEVENT
+UID:XNibg0txYAwFlumxpBZTe
+SUMMARY:[Labprac] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220223T090000Z
+DTEND:20220223T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:3ijmg40VZmlpEaxB7QvEE
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220223T110000Z
+DTEND:20220223T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Lawrence\, John\,Magerand\, Ludovi
+	c\,Pluss\, Brian
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>L
+	awrence, John,Magerand, Ludovic,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:N4zNknLnl9CP-_AaUHSR5
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220223T120000Z
+DTEND:20220223T130000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Pluss\, Brian
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>P
+	luss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:1kBab7J9H4EdRm12TE_D9
+SUMMARY:[Labprac] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220224T090000Z
+DTEND:20220224T110000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain
+LOCATION:Queen Mother Lab 2 (SSEN ITS) [cap.22]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 0 (SSEN ITS) [cap.20]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain
+END:VEVENT
+BEGIN:VEVENT
+UID:N3XVrnxkt6TxK8J6l103E
+SUMMARY:[Classtest] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220225T140000Z
+DTEND:20220225T143000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian\,Mage
+	rand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:2QVx82gYj4mQpyGF1xgQp
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220225T160000Z
+DTEND:20220225T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Dalhousie 3G05 LT2 [cap.120]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:Cd04Bykpz6xK6LSmV0N1e
+SUMMARY:[Tutorial] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220228T090000Z
+DTEND:20220228T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:2viVUNpskraX5v4JHt7Eo
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220228T110000Z
+DTEND:20220228T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Scrymgeour 4.01 [cap.94]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:9SKFGq6QkhkUNY09ft6hm
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220228T130000Z
+DTEND:20220228T140000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Magerand\, Ludovic
+LOCATION:Dalhousie 3G05 LT2 [cap.120]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:E7-pMDAF6U8HYkIH8NjPH
+SUMMARY:[Classtest] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220228T160000Z
+DTEND:20220228T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Pluss\, Brian\,Lawrence\, John\,Ma
+	gerand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>P
+	luss, Brian,Lawrence, John,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:uKPh0mW8wnIDVXDew7Neo
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220301T110000Z
+DTEND:20220301T120000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Magerand\, Ludovic
+LOCATION:Carnelley Small LT [cap.83]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:dFoLsmRHMrvAG-EGUMZ8P
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220301T150000Z
+DTEND:20220301T160000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic\,Pluss\, Brian\
+	,Lawrence\, John
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic,Pluss, Brian,Lawrence, John
+END:VEVENT
+BEGIN:VEVENT
+UID:Lb9N72oGEFt9go5cDaRf1
+SUMMARY:[Labprac] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220302T090000Z
+DTEND:20220302T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:LSz7wkuuklFqZzxc-8rPj
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220302T110000Z
+DTEND:20220302T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Lawrence\, John\,Magerand\, Ludovi
+	c\,Pluss\, Brian
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>L
+	awrence, John,Magerand, Ludovic,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:GC5v0pF7e2CWiuvJZ9atX
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220302T120000Z
+DTEND:20220302T130000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Pluss\, Brian
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>P
+	luss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:96YlHdxRC4jAFYdDxHDS-
+SUMMARY:[Labprac] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220303T090000Z
+DTEND:20220303T110000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain
+LOCATION:Queen Mother Lab 2 (SSEN ITS) [cap.22]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 0 (SSEN ITS) [cap.20]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain
+END:VEVENT
+BEGIN:VEVENT
+UID:VOt_ggzxI62XEhFtkZJLc
+SUMMARY:[Classtest] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220304T140000Z
+DTEND:20220304T143000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian\,Mage
+	rand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:Cbej5vGc1cFA5Tn4TFP5Y
+SUMMARY:[Pdp] Personal Development Planning
+DTSTAMP:20220206T233200Z
+DTSTART:20220304T150000Z
+DTEND:20220304T153000Z
+DESCRIPTION:Module Code: SD20001\nStaff: Magerand\, Ludovic
+LOCATION:Scrymgeour 1.24 [cap.12]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>SD20001<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:ljZPsPqZtHPO-bXkBYKui
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220304T160000Z
+DTEND:20220304T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Dalhousie 3G05 LT2 [cap.120]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:Fd0FSRkijxxhk1aSX5BBi
+SUMMARY:[Tutorial] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220307T090000Z
+DTEND:20220307T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:Wfnl3OHpoHqHXReDGVeMk
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220307T110000Z
+DTEND:20220307T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Scrymgeour 4.01 [cap.94]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:ow_64F2dkL0Hoe8OUCHXR
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220307T130000Z
+DTEND:20220307T140000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Magerand\, Ludovic
+LOCATION:Dalhousie 3G05 LT2 [cap.120]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:dbG82JygH2iad-vC4l4kg
+SUMMARY:[Classtest] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220307T160000Z
+DTEND:20220307T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Pluss\, Brian\,Lawrence\, John\,Ma
+	gerand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>P
+	luss, Brian,Lawrence, John,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:34bKvhLz7UgVsLZJ2lWeu
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220308T110000Z
+DTEND:20220308T120000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Magerand\, Ludovic
+LOCATION:Carnelley Small LT [cap.83]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:HHlv3gJm4gDvnt6FE2Y5O
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220308T150000Z
+DTEND:20220308T160000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic\,Pluss\, Brian\
+	,Lawrence\, John
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic,Pluss, Brian,Lawrence, John
+END:VEVENT
+BEGIN:VEVENT
+UID:B-lEkr6vOmflKytoeCBXp
+SUMMARY:[Labprac] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220309T090000Z
+DTEND:20220309T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:boheRcMV1qj0kIGUBGxnk
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220309T110000Z
+DTEND:20220309T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Lawrence\, John\,Magerand\, Ludovi
+	c\,Pluss\, Brian
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>L
+	awrence, John,Magerand, Ludovic,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:Ei_PuluLXJMkVaVC2zfOJ
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220309T120000Z
+DTEND:20220309T130000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Lawrence\, John
+LOCATION:Dalhousie 3G02 LT1 [cap.120]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>L
+	awrence, John
+END:VEVENT
+BEGIN:VEVENT
+UID:zJezfwmYzXzw6hlAyHxde
+SUMMARY:[Labprac] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220310T090000Z
+DTEND:20220310T110000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain
+LOCATION:Queen Mother Lab 2 (SSEN ITS) [cap.22]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 0 (SSEN ITS) [cap.20]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain
+END:VEVENT
+BEGIN:VEVENT
+UID:_qQvOJSrBAxYaUN6n15zK
+SUMMARY:[Classtest] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220311T140000Z
+DTEND:20220311T143000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian\,Mage
+	rand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:lXmYfWPj1Bfgx_E2E4b_0
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220311T160000Z
+DTEND:20220311T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Dalhousie 3G05 LT2 [cap.120]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:7MOzlkBU7d-E0Swp1ssEH
+SUMMARY:[Tutorial] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220314T090000Z
+DTEND:20220314T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:VGBixw6zDrQKGlK58KFrM
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220314T110000Z
+DTEND:20220314T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Scrymgeour 4.01 [cap.94]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:B5emXkp8jzxS4YrkH1fHA
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220314T130000Z
+DTEND:20220314T140000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Magerand\, Ludovic
+LOCATION:Dalhousie 3G05 LT2 [cap.120]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:lZoaE4YoRuodxrIStj6Zx
+SUMMARY:[Classtest] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220314T160000Z
+DTEND:20220314T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Pluss\, Brian\,Lawrence\, John\,Ma
+	gerand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>P
+	luss, Brian,Lawrence, John,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:ah4qv-YCZahLEzLHmjlbR
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220315T110000Z
+DTEND:20220315T120000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Magerand\, Ludovic
+LOCATION:Carnelley Small LT [cap.83]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:b0kYLyceemS8BwO90mVHg
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220315T150000Z
+DTEND:20220315T160000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic\,Pluss\, Brian\
+	,Lawrence\, John
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic,Pluss, Brian,Lawrence, John
+END:VEVENT
+BEGIN:VEVENT
+UID:o7_59DU4nD_theko1m7tj
+SUMMARY:[Labprac] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220316T090000Z
+DTEND:20220316T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:tD65RtxhCQzOa7uqXx3u9
+SUMMARY:[Labprac] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220316T110000Z
+DTEND:20220316T120000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Lawrence\, John\,Magerand\, Ludovi
+	c\,Pluss\, Brian
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>L
+	awrence, John,Magerand, Ludovic,Pluss, Brian
+END:VEVENT
+BEGIN:VEVENT
+UID:6eV5PMcDRNJ3vfLVsqwAH
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220316T120000Z
+DTEND:20220316T130000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Lawrence\, John
+LOCATION:Dalhousie 3G02 LT1 [cap.120]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>L
+	awrence, John
+END:VEVENT
+BEGIN:VEVENT
+UID:JgYUGuwbQ0kpapseTY9-_
+SUMMARY:[Labprac] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220317T090000Z
+DTEND:20220317T110000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain
+LOCATION:Queen Mother Lab 2 (SSEN ITS) [cap.22]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 0 (SSEN ITS) [cap.20]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain
+END:VEVENT
+BEGIN:VEVENT
+UID:SeFlilZSdsoNxmxoL-mR-
+SUMMARY:[Classtest] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220318T140000Z
+DTEND:20220318T143000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian\,Mage
+	rand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:msFxVc_bvKlBMC3zdtk2-
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220318T160000Z
+DTEND:20220318T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Dalhousie 3G05 LT2 [cap.120]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:xCjHCS8PoxdOJ691ewSEi
+SUMMARY:[Tutorial] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220321T090000Z
+DTEND:20220321T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:hLirpBak8FomhjHegY6H1
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220321T130000Z
+DTEND:20220321T140000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Magerand\, Ludovic
+LOCATION:Dalhousie 3G05 LT2 [cap.120]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:ifcK4hv-LkOejb04ULmtd
+SUMMARY:[Presentation] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220321T150000Z
+DTEND:20220321T180000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic\,Pluss\, Brian\
+	,Lawrence\, John
+LOCATION:Dalhousie 1F01 Env 1 (DM) [cap.60]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic,Pluss, Brian,Lawrence, John
+END:VEVENT
+BEGIN:VEVENT
+UID:pKYW6CVwRrG0IFCkyhUet
+SUMMARY:[Seminar] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220322T110000Z
+DTEND:20220322T120000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Magerand\, Ludovic
+LOCATION:Carnelley Small LT [cap.83]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:zyvJaslF5Mao3mi-XqfBi
+SUMMARY:[Labprac] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220323T090000Z
+DTEND:20220323T110000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Queen Mother Lab 0 (SSEN ITS) [cap.20]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 2 (SSEN ITS) [cap.22]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:egkZ-1eL6LTfH-HMluLRN
+SUMMARY:[Labprac] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220324T090000Z
+DTEND:20220324T110000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain
+LOCATION:Queen Mother Lab 2 (SSEN ITS) [cap.22]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 0 (SSEN ITS) [cap.20]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain
+END:VEVENT
+BEGIN:VEVENT
+UID:V0vMKv5LX0nxFa-bzCax7
+SUMMARY:[Classtest] Object Oriented Analysis and Design
+DTSTAMP:20220206T233200Z
+DTSTART:20220325T100000Z
+DTEND:20220325T130000Z
+DESCRIPTION:Module Code: AC22004\nStaff: Ramsay\, Craig
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22004<br><b>Staff: </b>R
+	amsay, Craig
+END:VEVENT
+BEGIN:VEVENT
+UID:y3k_8Rs4sdvctVeAf1r8Q
+SUMMARY:[Classtest] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220325T140000Z
+DTEND:20220325T143000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian\,Mage
+	rand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:IMgpLvss1TKkR2CveAKlJ
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220325T160000Z
+DTEND:20220325T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Dalhousie 3G05 LT2 [cap.120]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:kVO4Kihg41MuJQz-X3T8Q
+SUMMARY:[Classtest] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220328T140000Z
+DTEND:20220328T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Pluss\, Brian\,Lawrence\, John\,Ma
+	gerand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>P
+	luss, Brian,Lawrence, John,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:uxWHa8qGq_1rFunHnSjR2
+SUMMARY:[Labprac] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220331T090000Z
+DTEND:20220331T110000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain
+LOCATION:Queen Mother Lab 2 (SSEN ITS) [cap.22]\,Queen Mother Lab 1 (SSEN I
+	TS) [cap.22]\,Queen Mother Lab 0 (SSEN ITS) [cap.20]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain
+END:VEVENT
+BEGIN:VEVENT
+UID:zCYjjNj1pWK_D3bzNXmHo
+SUMMARY:[Classtest] Computer Systems 2B: Architecture and Operating Systems
+DTSTAMP:20220206T233200Z
+DTSTART:20220401T110000Z
+DTEND:20220401T130000Z
+DESCRIPTION:Module Code: AC22005\nStaff: Murray\, Iain\,Pluss\, Brian\,Mage
+	rand\, Ludovic
+LOCATION:Online Live Event
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC22005<br><b>Staff: </b>M
+	urray, Iain,Pluss, Brian,Magerand, Ludovic
+END:VEVENT
+BEGIN:VEVENT
+UID:QskVhQtbme0SfQpXhtAzj
+SUMMARY:[Tutorial] Algorithms and Artificial Intelligence
+DTSTAMP:20220206T233200Z
+DTSTART:20220401T160000Z
+DTEND:20220401T170000Z
+DESCRIPTION:Module Code: AC21007\nStaff: Magerand\, Ludovic
+LOCATION:Dalhousie 3G05 LT2 [cap.120]
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-ALT-DESC;FMTTYPE=text/html:<b>Module Code: </b>AC21007<br><b>Staff: </b>M
+	agerand, Ludovic
+END:VEVENT
+END:VCALENDAR
